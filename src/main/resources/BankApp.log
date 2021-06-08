@@ -1,0 +1,21 @@
+INFO  | 2021-06-07 19:50:06 | [main] app.Driver (Driver.java:25) - Program Started.
+INFO  | 2021-06-07 20:26:36 | [main] app.Driver (Driver.java:25) - Program Started.
+INFO  | 2021-06-08 12:44:13 | [main] app.Driver (Driver.java:25) - Program Started.
+INFO  | 2021-06-08 12:44:25 | [main] services.UserServiceImpl (UserServiceImpl.java:58) - markmersman Logged In.
+INFO  | 2021-06-08 12:47:02 | [main] app.Driver (Driver.java:25) - Program Started.
+INFO  | 2021-06-08 12:47:10 | [main] services.UserServiceImpl (UserServiceImpl.java:58) - markmersman Logged In.
+INFO  | 2021-06-08 12:59:45 | [main] app.Driver (Driver.java:25) - Program Started.
+INFO  | 2021-06-08 12:59:52 | [main] services.UserServiceImpl (UserServiceImpl.java:58) - elyp Logged In.
+INFO  | 2021-06-08 13:00:10 | [main] app.Driver (Driver.java:169) - elyp tried to withdraw $130,000.00 from Ely's Checking the available balance at the time was $12,800.00
+INFO  | 2021-06-08 13:00:17 | [main] app.Driver (Driver.java:176) - elyp tried to withdraw -$289.00 from Ely's Checking the available balance at the time was $12,800.00
+INFO  | 2021-06-08 13:00:23 | [main] app.Driver (Driver.java:186) - elyp withdrew $200.00 from Ely's Checking the new balance at the time was $12,600.00
+INFO  | 2021-06-08 13:00:34 | [main] app.Driver (Driver.java:216) - elyp tried to depoit -$500.00 to Ely's Checking the balance at the time was $12,600.00
+INFO  | 2021-06-08 13:00:43 | [main] app.Driver (Driver.java:226) - elyp depoited $400.00 to Ely's Checking the new balance at the time was $13,000.00
+INFO  | 2021-06-08 13:00:56 | [main] services.TransactionServiceImpl (TransactionServiceImpl.java:58) - Transfer accepted fromEly's Savings Account to Ely's Checking
+INFO  | 2021-06-08 13:01:42 | [main] services.UserServiceImpl (UserServiceImpl.java:82) - tedbucklandregistered as a new user.
+INFO  | 2021-06-08 13:01:46 | [main] app.Driver (Driver.java:40) - User quit the program.
+INFO  | 2021-06-08 13:01:46 | [main] app.Driver (Driver.java:75) - elyp logged out
+INFO  | 2021-06-08 13:04:57 | [main] app.Driver (Driver.java:25) - Program Started.
+INFO  | 2021-06-08 13:05:05 | [main] services.UserServiceImpl (UserServiceImpl.java:58) - elyp Logged In.
+INFO  | 2021-06-08 13:05:07 | [main] app.Driver (Driver.java:75) - elyp logged out
+INFO  | 2021-06-08 13:05:08 | [main] app.Driver (Driver.java:40) - User quit the program.
